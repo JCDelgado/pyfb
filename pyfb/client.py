@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
     The implementation of the Facebook Client
 """
