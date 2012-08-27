@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
     This is an Easy to Use Python Interface to the Facebook Graph API
 
